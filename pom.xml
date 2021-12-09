@@ -43,7 +43,7 @@
         <lombok.version>1.16.18</lombok.version>
         <google.guava.version>19.0</google.guava.version>
         <nekohtml.version>1.9.22</nekohtml.version>
-        <javkson.version>2.9.6</javkson.version>
+        <javkson.version>2.9.10.8</javkson.version>
     </properties>
 
     <dependencyManagement>
